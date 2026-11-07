@@ -1,5 +1,5 @@
-:HL["/_next/static/css/4789e96d2ce00600.css","style"]
+:HL["/_next/static/css/21cb6a955254e836.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"template","t":"d","k":"studio","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"necklaces","h":131168,"c":"$Q2"}]]
-0:{"b":"RJKsGo878p89-ERfTjiXm","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"lZEN0UA9x9z16jb39CE8t","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
